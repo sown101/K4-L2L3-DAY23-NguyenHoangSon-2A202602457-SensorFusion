@@ -8,7 +8,7 @@
 - MSSV: 2A202602457
 - Email: son1012005@gmail.com
 - Link repo (fork): https://github.com/sown101/K4-L2L3-DAY23-NguyenHoangSon-2A202602457-SensorFusion
-- Commit hash nộp (`git rev-parse HEAD`):
+- Commit hash nộp (`git rev-parse HEAD`): 86a5c9061a962542c322875bb85bb5c1948a42cf
 
 ## Tóm tắt kết quả
 
